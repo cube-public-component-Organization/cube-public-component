@@ -3,7 +3,7 @@ const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
   lintOnSave: false
-  // publicPath: '//g.yppstatic.com/bx-cube/cube-base/tab/0.0.2/',
+  // publicPath: '//g.yppstatic.com/bx-cube/cube-public-component/tab/0.0.2/',
   // configureWebpack: {
   //   mode: 'production',
   //   target: ['web', 'es5'],

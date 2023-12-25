@@ -1,9 +1,9 @@
 module.exports = {
   // 组件库的名字
-  name: '魔方基础组件库',
-  nameEn: 'cube-base',
+  name: '魔方共建组件库',
+  nameEn: 'cube-public-component',
   // 组件库唯一标志
-  libraryUuid: 'OyFmpFstNauX',
+  libraryUuid: 'CNZTEpafuhlk',
   /**
    * 组件发布地址:local(私有)、public(公共)
    */
