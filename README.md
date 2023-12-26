@@ -1,4 +1,4 @@
-# cube-kant
+# cube-public-component
 
 ## Project setup
 ```
