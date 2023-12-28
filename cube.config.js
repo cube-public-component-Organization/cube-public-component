@@ -10,6 +10,6 @@ module.exports = {
   publishType: 'local',
   // 登录人的用户信息，一期暂时不做，直接先写死在配置里
   loginInfo: {
-    uid: '1800000000000172504'
+    uid: '1800000000000197014'
   }
 }
