@@ -6,7 +6,8 @@ const instance = new axios.create({
   // baseURL: 'https://test-kelvin-fe.yupaopao.com',
   // baseURL: 'http://10.72.97.43:7001', // test
   // baseURL: 'http://10.73.8.156:7001', // uat
-  baseURL: 'https://test-api.bxcube.com',
+  // baseURL: 'https://test-api.bxcube.com',
+  baseURL: 'https://api.bxcube.com',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json;charset=utf-8'
@@ -34,7 +35,7 @@ module.exports = {
       headers: {
         'Content-Type': 'multipart/form-data',
         ...formData.getHeaders()
-      },
+      }
     })
   }
 }
